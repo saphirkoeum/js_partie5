@@ -1,0 +1,11 @@
+h1 {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+img {
+  display: flex;
+}
+
+canvas {
+  border: 2px solid black;
+}
